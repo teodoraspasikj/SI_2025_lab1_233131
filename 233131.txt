@@ -1,0 +1,26 @@
+postupke:
+1. vekje imam kreirano profil na github
+2. smeneto vo master
+3. Repositories->New repository (SI_2025_lab1_233131,private)
+4. mkdir SI_2025_lab1_233131, cd SI_2025_lab1_233131, git init
+5. git remote add origin https://github.com/teodoraspasikj/SI_2025_lab1_233131.git, git remote -v
+6. nano README.md (Teodora Spasikj 233131), git add README.md git commit -m "Initial commit", git push origin master
+7.git add SI2025Lab1Main.java, git commit -m "Dodadeno"
+8. git push -u origin master
+9. Projcets->New Project->Kanban->rename SI2025
+10.Backlog add item, set name and repository
+11. racno premestuvanje na 3iteam-mi vo in progress
+12. development->create a branch(za site 3 granki)
+13. git fetch origin
+14. git checkout 2-remove-a-task-by-name
+15. korekcija na funkcijata vo java file
+16.git commit -m "Remove a task by name"
+17. git push origin 2-remove-a-task-by-name
+18. na dvete funkcii so pomos na kopceto Compare& Pull Request se pravi pull request
+19. ista postapka e napravena za site
+20.so kopceto merge pull request, dopolnitelno ne se javuva konfilkt bidejkji ima izmena na razlicen del od kod
+21.dvete granki se prefrleni od in progress vo done
+22. git checkout master, git pull origin master, git merge 3-list-tasks-sorted-by-name
+23. git push origin master
+24. nema pojava na konfilkt
+25.git log --oneline --graph --all >> logs.txt
