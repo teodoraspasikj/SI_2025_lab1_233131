@@ -1,0 +1,25 @@
+* eb78428 List tasks sorted by name
+| * 7c26dd5 Filter-tasks-by-category
+|/  
+*   97e8cae Merge pull request #11 from teodoraspasikj/2-find-all-completed-tasks
+|\  
+| | *   a4da33a Find all completed tasks
+| | |\  
+| | |/  
+| |/|   
+| * |   c8e768f Merge branch 'master' into 2-find-all-completed-tasks
+| |\ \  
+| |/ /  
+|/| |   
+* | |   5fcac2e Merge pull request #10 from teodoraspasikj/1-remove-a-task-by-name
+|\ \ \  
+| * | | 78a6e8f Remove a task by name
+|/ / /  
+| | * bde02ae Find all completed tasks
+| |/  
+| * c54c37e Find all completed tasks
+|/  
+| * dfe23d8 List tasks sorted by name
+|/  
+* 95b0809 Dodadeno
+* ccc6634 Initial commit
